@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KanuckEO
+- 👀 I’m interested in Coding and Sports
+- 🌱 I’m currently learning Python and embedded C with mighty core
+- 💞️ I’m looking to collaborate on actually nothing, I am just doing lone projects
+- 📫 How to reach me Twitter Dms
